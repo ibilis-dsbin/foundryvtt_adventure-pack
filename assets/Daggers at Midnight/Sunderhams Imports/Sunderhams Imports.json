@@ -1,0 +1,333 @@
+{
+  "name": "Sunderhams Imports",
+  "width": 7800,
+  "height": 5400,
+  "grid": 300,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.0,
+  "lights": [
+    {
+      "x": 2213,
+      "y": 2885,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1860,
+      "y": 4072,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4331,
+      "y": 2542,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3034,
+      "y": 3178,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3702,
+      "y": 2266,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1441,
+      "y": 2857,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1441,
+      "y": 1909,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4148,
+      "y": 3173,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2477,
+      "y": 1640,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3453,
+      "y": 1672,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6536,
+      "y": 1168,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6519,
+      "y": 4247,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5198,
+      "y": 4228,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5214,
+      "y": 1149,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1272,
+      "y": 1600,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1272,
+      "y": 3798,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2801,
+      "y": 1326,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3743,
+      "y": 4072,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    }
+  ],
+  "walls": [
+    {
+      "c": [
+        4218,
+        3971,
+        2310,
+        3971
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4218,
+        2381,
+        4218,
+        3971
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4218,
+        2381,
+        4218,
+        2063
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        4218,
+        2063,
+        4218,
+        1745
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        4218,
+        1745,
+        4218,
+        1427
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1359,
+        1427,
+        4218,
+        1427
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1359,
+        2699,
+        1359,
+        1427
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1359,
+        3971,
+        1359,
+        2699
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1359,
+        2381,
+        1677,
+        2381
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1677,
+        2381,
+        1995,
+        2381
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1995,
+        2381,
+        2310,
+        2381
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2310,
+        3971,
+        2310,
+        2381
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2310,
+        3971,
+        1995,
+        3971
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1359,
+        3971,
+        1995,
+        3971
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    }
+  ],
+  "img": null,
+  "foreground": null
+}
