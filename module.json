@@ -45,5 +45,11 @@
       }
     }
   ],
+  "authors": [
+    {
+      "name": "Darth Dahn the Indifferent",
+      "flags": {}
+    }
+  ],
   "description": ""
 }
