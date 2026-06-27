@@ -64,17 +64,23 @@
       "label": "PC Journals",
       "path": "packs/pc-journals",
       "type": "JournalEntry",
+      "system": "D35E",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "extra-scenes",
+      "label": "Extra Scenes",
+      "path": "packs/extra-scenes",
+      "type": "Scene",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
       "system": "D35E",
-      "flags": {}
-    }
-  ],
-  "authors": [
-    {
-      "name": "Darth Dahn the Indifferent",
       "flags": {}
     }
   ],
